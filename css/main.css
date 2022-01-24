@@ -1,0 +1,38 @@
+h2 {
+  text-align: center;
+  font-size: 30pt;
+}
+
+body {
+  font-family: Source Sans Pro;
+  padding: 1em 1em;
+  color: #6F89A2;
+}
+
+nav {
+  font-size: 20pt;
+}
+
+h5 {
+  color: #e61e64;
+}
+
+footer {
+  font-family: Montserrat;
+  padding: 20px;
+  color: white;
+  background-color: #00a2c6;
+  text-align: center;
+  font-weight: bold;
+}
+
+.all-card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.col-md {
+  font-size: 15pt;
+}
